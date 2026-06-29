@@ -1,5 +1,5 @@
 # AI SQL Agent with LangGraph
-![Alt Text]("C:\Users\midoo\OneDrive\Desktop\Gemini_Generated_Image_wpatm5wpatm5wpat.png")
+![project_arch](Gemini_Generated_Image_wpatm5wpatm5wpat.png)
 
 > A production-oriented AI SQL Agent that converts natural language into SQL while prioritizing **security, validation, and reliability**.
 
